@@ -7,6 +7,9 @@ namespace Lektion4Oktober
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Detta är en ny lina");
+            Console.WriteLine("Detta är ännu en ny lina");
+
         }
     }
 }
