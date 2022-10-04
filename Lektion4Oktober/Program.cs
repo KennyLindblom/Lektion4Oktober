@@ -9,9 +9,9 @@ namespace Lektion4Oktober
             Console.WriteLine("Hello World!");
             Console.WriteLine("Detta är en ny lina");
             Console.WriteLine("Detta är ännu en ny lina");
-            for (int i = 0; i<10; i++)
+            for (int i = 0; i<=10; i++)
             {
-                Console.WriteLine(i + 4);
+                Console.WriteLine(i);
             }
 
         }
